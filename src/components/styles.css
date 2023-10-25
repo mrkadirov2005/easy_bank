@@ -1,0 +1,40 @@
+.L_wrapper{
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    width: 22%;
+    background-color: white;
+    flex-direction: column;
+    padding: 10px 15px;
+    text-align: center !important;
+}
+.squareShape{
+    width: 100%;
+}
+span{
+    text-align: left;
+}
+h2{
+    text-align: left
+}
+p{
+    text-align: left;
+}
+.footer--list_div{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 70%;
+    height: 100%;
+}
+.footer--links-ul{
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    flex-direction: column;
+    list-style: none;
+}
+.footer--links-ul li{
+    margin-bottom: 10px;
+}
+
